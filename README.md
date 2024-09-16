@@ -566,8 +566,7 @@ Summary
 Pull requests play a crucial role in the GitHub workflow by facilitating code review, collaboration, and integration of changes. They provide a structured way for developers to propose, discuss, and merge changes, ensuring code quality and alignment with project goals. The typical process involves creating a branch, making changes, pushing the branch to GitHub, creating a pull request, reviewing and addressing feedback, and finally merging the pull request. This process enhances code quality, ensures effective collaboration, and maintains a well-organized project history.
 
 
-
-## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
